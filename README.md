@@ -1,6 +1,6 @@
 # water_reminder_app
 
-A new Flutter project.
+Goblet H2O adalah aplikasi mobile yang intuitif dan ramah pengguna, dirancang untuk membantu pengguna menjaga hidrasi yang baik sepanjang hari. Aplikasi ini memberikan pengingat tepat waktu untuk minum air, melacak asupan air, menawarkan tips hidrasi, dan memantau kemajuan menuju target asupan air harian. Goblet H2O juga menyimpan riwayat konsumsi air untuk membantu pengguna memahami pola hidrasi mereka dari waktu ke waktu. 
 
 ## Getting Started
 
